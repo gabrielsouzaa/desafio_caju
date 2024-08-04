@@ -1,4 +1,4 @@
-package com.challenge.factorymethod
+package src.com.challenge.factorymethod
 
 import com.challenge.factorymethod.model.PayloadTransaction
 import com.challenge.factorymethod.transaction.factory.CashTransactionFactory
